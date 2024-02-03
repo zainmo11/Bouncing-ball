@@ -8,6 +8,9 @@ This project implements a bouncing ball animation using the Pygame library in Py
   Your browser does not support the video tag.
 </video>
 
+[Watch the video](https://raw.githubusercontent.com/zainmo11/Bouncing-ball/main/bounce.mp4)
+
+
 ## Prerequisites
 
 - Python 3.x
