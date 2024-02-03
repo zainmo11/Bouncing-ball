@@ -3,12 +3,11 @@
 This project implements a bouncing ball animation using the Pygame library in Python. The ball changes color, has a shadow effect, and plays a snippet of a song on every bounce.
 
 
-<video width="640" height="480" controls>
-  <source src="https://raw.githubusercontent.com/zainmo11/Bouncing-ball/main/bounce.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-[Watch the video](https://raw.githubusercontent.com/zainmo11/Bouncing-ball/main/bounce.mp4)
+
+
+https://github.com/zainmo11/Bouncing-ball/assets/89034348/4b7a0544-d525-48f3-8eb8-a91ca5c6cba4
+
 
 
 ## Prerequisites
